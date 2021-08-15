@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485956%20lines%20of%20code-blue)
 
@@ -46,15 +46,15 @@ Sunday       93 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 hrs 23 mins       ████████████████████████░   96.61% 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Other                    3 hrs 58 mins       ███████████████████████░░   93.86% 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14%
 
 🔥 Editors: 
-Browser                  6 hrs 21 mins       ████████████████████░░░░░   83.03% 
-Vim                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97%
+Browser                  2 hrs 56 mins       █████████████████░░░░░░░░   69.41% 
+Vim                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   30.59%
 
 💻 Operating System: 
-Linux                    7 hrs 39 mins       █████████████████████████   100.0%
+Linux                    4 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +75,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
