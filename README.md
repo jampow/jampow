@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-365465%20lines%20of%20code-blue)
 
@@ -46,14 +46,14 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    33 hrs 56 mins      █████████████████████████   100.0%
+Other                    10 hrs 39 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  33 hrs 56 mins      █████████████████████████   100.0% 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Browser                  10 hrs 24 mins      ████████████████████████░   97.63% 
+Vim                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
 💻 Operating System: 
-Linux                    33 hrs 56 mins      █████████████████████████   100.0%
+Linux                    10 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
