@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C710%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 613 Contributions in the Year 2021
+> 🏆 616 Contributions in the Year 2021
  > 
-> 📦 152.6 kB Used in GitHub's Storage 
+> 📦 152.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,17 +46,16 @@ Sunday       50 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     12 hrs 23 mins      ████████████████████████░   98.64% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
+Dart                     12 hrs 8 mins       █████████████████████████   99.54% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  12 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    12 hrs 34 mins      █████████████████████████   100.0%
+Linux                    12 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -79,5 +76,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
