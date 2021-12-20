@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 730 Contributions in the Year 2021
+> 🏆 731 Contributions in the Year 2021
  > 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
@@ -32,8 +32,8 @@
 Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
 Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
 Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-Thursday     76 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+Thursday     75 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
+Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
 Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
 Sunday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
 
@@ -78,5 +78,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
