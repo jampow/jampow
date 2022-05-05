@@ -46,14 +46,13 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     13 mins             █████████████████████████   99.61% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,5 +73,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 18:54:53 UTC
+ Last Updated on 05/05/2022 18:53:31 UTC
 <!--END_SECTION:waka-->
