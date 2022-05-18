@@ -9,13 +9,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 827 Contributions in the Year 2022
+> 🏆 381 Contributions in the Year 2022
  > 
 > 📦 152.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 111 Public Repositories 
+> 📜 112 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -48,13 +48,15 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     12 mins             █████████████████████░░░░   86.31% 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +77,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 18:52:21 UTC
+ Last Updated on 18/05/2022 18:51:13 UTC
 <!--END_SECTION:waka-->
