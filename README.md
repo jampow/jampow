@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C028%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C031%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,11 +48,11 @@ Sunday       16 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.83% 
-JavaScript               4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.34% 
+TypeScript               6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.8% 
+JavaScript               4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   30.37% 
 Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-javascriptreact          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+javascriptreact          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
 🔥 Editors: 
 Neovim                   14 hrs 59 mins      █████████████████████████   100.0%
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 19:04:31 UTC
+ Last Updated on 09/09/2022 19:05:17 UTC
 <!--END_SECTION:waka-->
