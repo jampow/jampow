@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C044%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C045%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -15,10 +15,50 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 114 Public Repositories 
+> 📜 115 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+🌆 Daytime    94 commits     █████████░░░░░░░░░░░░░░░░   37.3% 
+🌃 Evening    99 commits     █████████░░░░░░░░░░░░░░░░   39.29% 
+🌙 Night      33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Tuesday      57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.62% 
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+Thursday     67 commits     ██████░░░░░░░░░░░░░░░░░░░   26.59% 
+Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TeX                      1 hr 29 mins        ████████████████████████░   98.16% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+
+🔥 Editors: 
+Neovim                   1 hr 30 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    1 hr 30 mins        █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,5 +76,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 18:57:40 UTC
+ Last Updated on 17/09/2022 19:03:17 UTC
 <!--END_SECTION:waka-->
