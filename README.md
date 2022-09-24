@@ -48,14 +48,13 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TeX                      1 hr 29 mins        ████████████████████████░   98.16% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,5 +75,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 18:58:36 UTC
+ Last Updated on 24/09/2022 19:03:44 UTC
 <!--END_SECTION:waka-->
