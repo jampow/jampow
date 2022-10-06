@@ -11,7 +11,7 @@
 
 > 🏆 741 Contributions in the Year 2022
  > 
-> 📦 170.2 kB Used in GitHub's Storage 
+> 📦 170.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,17 +48,13 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               18 mins             █████████████████████░░░░   85.03% 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +75,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jampow/jampow/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2022 19:09:56 UTC
+ Last Updated on 06/10/2022 19:05:58 UTC
 <!--END_SECTION:waka-->
