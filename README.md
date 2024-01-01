@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C443%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C443%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 593.8 kB Used in GitHub's Storage 
  > 
-> 🏆 391 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -79,5 +79,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:38:13 UTC
+ Last Updated on 01/01/2024 18:38:22 UTC
 <!--END_SECTION:waka-->
