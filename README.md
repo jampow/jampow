@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C922%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 595.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,19 +46,19 @@ Sunday                   895 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    18 hrs 29 mins      ██████████████████░░░░░░░   70.15 % 
-TypeScript               4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Bash                     3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Canva Design             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-fugitiveblame            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    15 hrs 43 mins      ████████████████████░░░░░   79.90 % 
+TypeScript               3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Canva Design             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+fugitiveblame            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 34 mins      ██████████████████░░░░░░░   70.50 % 
-Neovim                   7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Chrome                   15 hrs 46 mins      ████████████████████░░░░░   80.15 % 
+Neovim                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 
 💻 Operating System: 
-Linux                    25 hrs 1 min        ████████████████████████░   94.96 % 
-Windows                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Linux                    18 hrs 27 mins      ███████████████████████░░   93.77 % 
+Windows                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +78,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2024 18:38:35 UTC
+ Last Updated on 27/04/2024 18:37:36 UTC
 <!--END_SECTION:waka-->
