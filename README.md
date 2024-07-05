@@ -11,8 +11,6 @@
 
 > 📦 596.0 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 119 Public Repositories 
@@ -46,14 +44,14 @@ Sunday                   979 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs 4 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 43 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 4 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   98.24 % 
-Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Windows                  3 hrs 33 mins       ████████████████████████░   95.25 % 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,5 +71,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2024 18:40:00 UTC
+ Last Updated on 05/07/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
