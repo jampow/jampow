@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C172%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C175%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -44,15 +44,15 @@ Sunday                   979 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    18 hrs 47 mins      █████████████████████████   99.91 % 
+Other                    18 hrs 58 mins      █████████████████████████   99.91 % 
 Canva Design             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 48 mins      █████████████████████████   100.00 % 
+Chrome                   18 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 9 mins       ████████████████░░░░░░░░░   64.68 % 
-Linux                    6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Windows                  12 hrs 20 mins      ████████████████░░░░░░░░░   65.02 % 
+Linux                    6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,5 +72,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:40:22 UTC
+ Last Updated on 21/07/2024 18:39:03 UTC
 <!--END_SECTION:waka-->
