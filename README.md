@@ -11,8 +11,6 @@
 
 > 📦 598.1 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 119 Public Repositories 
@@ -78,5 +76,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:41:58 UTC
+ Last Updated on 30/12/2024 18:42:36 UTC
 <!--END_SECTION:waka-->
