@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C514%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C517%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -46,18 +46,18 @@ Sunday                   976 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 44 mins       ███████████████░░░░░░░░░░   60.51 % 
-Other                    4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               8 hrs               ████████████████░░░░░░░░░   65.31 % 
+Other                    4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
 Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 46 mins       ███████████████░░░░░░░░░░   60.77 % 
-Chrome                   4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
+Neovim                   8 hrs 3 mins        ████████████████░░░░░░░░░   65.70 % 
+Chrome                   4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
 
 💻 Operating System: 
-Linux                    11 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +77,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2025 18:47:28 UTC
+ Last Updated on 12/11/2025 18:45:19 UTC
 <!--END_SECTION:waka-->
