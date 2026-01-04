@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C659%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.57%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 599.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,6 +19,48 @@
  > 
 > 🔑 59 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌆 Daytime                2747 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
+🌃 Evening                3523 commits        ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌙 Night                  1190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Wednesday                1096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Thursday                 1638 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Friday                   1562 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Saturday                 1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Sunday                   1001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               4 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.08 % 
+Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+JSON                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+
+🔥 Editors: 
+Neovim                   7 hrs 5 mins        ████████████████████░░░░░   78.20 % 
+Chrome                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+
+💻 Operating System: 
+Linux                    8 hrs 54 mins       █████████████████████████   98.32 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -34,5 +78,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:47:05 UTC
+ Last Updated on 04/01/2026 18:47:16 UTC
 <!--END_SECTION:waka-->
