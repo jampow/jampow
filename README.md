@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C662%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C664%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,14 +46,14 @@ Sunday                   1026 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 31 mins        ████████████████████████░   97.42 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    1 hr 56 mins        ████████████████████████░   97.95 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Chrome                   1 hr 33 mins        █████████████████████████   100.00 % 
+Chrome                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,5 +73,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2026 18:51:39 UTC
+ Last Updated on 17/01/2026 18:46:50 UTC
 <!--END_SECTION:waka-->
