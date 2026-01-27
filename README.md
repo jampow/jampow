@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C666%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C666%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,13 +46,19 @@ Sunday                   1051 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    2 hrs 19 mins       █████████████████████████   100.00 % 
+TypeScript               2 hrs 30 mins       █████████████░░░░░░░░░░░░   51.45 % 
+Other                    2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.23 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+lir                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 19 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 44 mins       ██████████████░░░░░░░░░░░   55.97 % 
+Chrome                   2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 50 mins       ███████████████░░░░░░░░░░   58.08 % 
+Windows                  2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.92 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,5 +78,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 18:52:05 UTC
+ Last Updated on 27/01/2026 18:52:18 UTC
 <!--END_SECTION:waka-->
