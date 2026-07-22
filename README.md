@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C043%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C045%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,13 +46,17 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    8 hrs 21 mins       █████████████████████████   100.00 % 
+Other                    8 hrs 50 mins       ███████████████████████░░   93.01 % 
+lir                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 21 mins       █████████████████████████   100.00 % 
+Chrome                   8 hrs 46 mins       ███████████████████████░░   92.37 % 
+Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 46 mins       ███████████████████████░░   92.37 % 
+Linux                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,5 +76,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 20:06:33 UTC
+ Last Updated on 22/07/2026 19:59:18 UTC
 <!--END_SECTION:waka-->
