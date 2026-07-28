@@ -1,17 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C609%20hrs%202%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 628.7 kB Used in GitHub's Storage 
+> 📦 628.8 kB Used in GitHub's Storage 
  > 
 > 🏆 54 Contributions in the Year 2026
  > 
@@ -48,23 +44,23 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    6 hrs 55 mins       ██████████████████████░░░   89.38 % 
-lir                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Other                    9 hrs 32 mins       ███████████████████████░░   91.58 % 
+lir                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 1 min         ███████████████████████░░   90.65 % 
-Neovim                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Chrome                   9 hrs 41 mins       ███████████████████████░░   93.04 % 
+Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         ███████████████████████░░   90.65 % 
-Linux                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Windows                  9 hrs 41 mins       ███████████████████████░░   93.04 % 
+Linux                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (3.42%)
+⏱ AI Coding Time: 15 mins (2.55%)
 
 ✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
 
@@ -98,5 +94,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:10:53 UTC
+ Last Updated on 28/07/2026 20:07:43 UTC
 <!--END_SECTION:waka-->
