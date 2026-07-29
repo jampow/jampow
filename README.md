@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C609%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
@@ -44,37 +48,20 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    9 hrs 32 mins       ███████████████████████░░   91.58 % 
-lir                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Other                    9 hrs 2 mins        ████████████████████████░   97.69 % 
+lir                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 41 mins       ███████████████████████░░   93.04 % 
-Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Opencode Cli             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Chrome                   9 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       ███████████████████████░░   93.04 % 
-Linux                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Windows                  9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (2.55%)
-
-✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +81,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:07:43 UTC
+ Last Updated on 29/07/2026 19:59:06 UTC
 <!--END_SECTION:waka-->
