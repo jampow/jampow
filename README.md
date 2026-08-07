@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C609%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.81%20million%20lines%20of%20code-blue?style=flat)
@@ -44,14 +48,14 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 12 mins       ██████████████████████░░░   89.61 % 
-lir                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Other                    5 hrs 4 mins        ███████████████████████░░   92.29 % 
+lir                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 34 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,5 +81,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:29:41 UTC
+ Last Updated on 07/08/2026 19:37:11 UTC
 <!--END_SECTION:waka-->
