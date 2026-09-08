@@ -48,13 +48,15 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    8 hrs 30 mins       █████████████████████████   100.00 % 
+Other                    10 hrs 19 mins      █████████████████████████   99.87 % 
+lir                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 30 mins       █████████████████████████   100.00 % 
+Chrome                   10 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 47 mins       ████████████████████████░   94.76 % 
+Linux                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +82,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:49:15 UTC
+ Last Updated on 08/09/2026 21:25:46 UTC
 <!--END_SECTION:waka-->
