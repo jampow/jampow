@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C610%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C610%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs-blue?style=flat)
 
@@ -11,13 +11,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 628.8 kB Used in GitHub's Storage 
+> 📦 628.9 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 122 Public Repositories 
+> 📜 123 Public Repositories 
  > 
 > 🔑 60 Private Repositories 
  > 
@@ -25,8 +25,8 @@
 
 ```text
 🌞 Morning                1697 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-🌆 Daytime                3045 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                4101 commits        ██████████░░░░░░░░░░░░░░░   40.10 % 
+🌆 Daytime                3048 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                4101 commits        ██████████░░░░░░░░░░░░░░░   40.09 % 
 🌙 Night                  1383 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -34,10 +34,10 @@
 ```text
 Monday                   1348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Tuesday                  1576 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Wednesday                1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                1243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 Thursday                 1928 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Friday                   1818 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Saturday                 1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   1819 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Saturday                 1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Sunday                   1131 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
@@ -48,14 +48,14 @@ Sunday                   1131 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 40 mins       ███████████████████████░░   90.37 % 
-lir                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    4 hrs 6 mins        ██████████████████████░░░   87.49 % 
+lir                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 16 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -67,10 +67,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               67 repos            ████████████░░░░░░░░░░░░░   49.63 % 
-Shell                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JavaScript               67 repos            ████████████░░░░░░░░░░░░░   49.26 % 
+Shell                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
@@ -81,5 +81,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jampow/jampow/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:07:19 UTC
+ Last Updated on 14/10/2026 21:58:35 UTC
 <!--END_SECTION:waka-->
